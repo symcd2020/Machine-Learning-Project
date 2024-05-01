@@ -5,8 +5,6 @@ Gourp Members: Mercedes Allen, Lori Bissell, Demetria Horton, Shelby McDaniel, E
 ## Overview 
 The primary goal of this analysis is to understand the impact of Label Appeal and the STARS rating system on the perceived quality of wine. By leveraging these discrete variables, we aim to identify trends and patterns that influence consumer perception and acceptance.
 
-Dataset Description
-The dataset comprises 12,795 observations with 15 variables, including key variables such as Label Appeal and STARS, both of which have several missing values. These variables are discrete, indicating categorical or ordinal data that reflects aspects of wine presentation and perceived quality.
 
 ## Data
 Our dataset consists of 15 variables and 12,795 observations with TARGET, ResidualSugar, Chlorides, FreeSulfurDioxide, TotalSulfurDioxide, pH, Sulphates, Alcohol, and STARS variables containing several missing values. Lastly, LabelAppeal, AcidIndex, and STARS are discrete variables and the rest are continuous. As such we will perform the appropriate visualization in the following figures.
