@@ -16,16 +16,16 @@ Our dataset consists of 15 variables and 12,795 observations with TARGET, Residu
 <img width="852" alt="Screen Shot 2024-04-23 at 8 30 56 PM" src="https://github.com/symcd2020/Data_Visualization_Project-LifeExpectancyByCountry/assets/147017396/2347fcec-a216-4203-b69a-d7be53209ff4">
 
 ## Objectives
-- **Data Preparation**: Clean and preprocess data to handle missing values in STARS and Label Appeal.
+- **Data Preparation**: Cleaned and preprocessed data to handle missing values.
 - **Descriptive Analysis**: Provide summaries of the main characteristics of Label Appeal and STARS.
-- **Correlation Study**: Investigate the relationships between Label Appeal, STARS, and the TARGET quality measure.
-- **Predictive Analysis**: Develop models to predict wine quality based on visual appeal and expert ratings.
+- **Correlation Study**: Investigated the relationships between Label Appeal, STARS, and the TARGET quality measure.
+- **Predictive Analysis**: Developed models to predict wine quality based on visual appeal and expert ratings.
 
 ## Methodology
-1. **Data Cleaning**: Tackle missing values through imputation methods to maintain data integrity.
-2. **Statistical Summary**: Analyze the central tendencies and dispersion of Label Appeal and STARS.
-3. **Visualization**: Create visual representations to understand the distribution and impact of key variables on wine quality.
-4. **Model Development**: Utilize regression or classification techniques to model the influence of Label Appeal and STARS on the perceived wine quality.
+1. **Data Cleaning**: Tackled missing values through imputation methods to maintain data integrity.
+2. **Statistical Summary**: Analyzed the central tendencies and dispersion of Label Appeal and STARS.
+3. **Visualization**: Created visual representations to understand the distribution and impact of key variables on wine quality.
+4. **Model Development**: Utilized regression or classification techniques to model the influence of Label Appeal and STARS on the perceived wine quality.
 
 ## Expected Outcomes
 The analysis will highlight the importance of label design and expert ratings in shaping consumer perceptions of wine quality. Insights derived from this study will guide strategic enhancements in marketing and product design.
