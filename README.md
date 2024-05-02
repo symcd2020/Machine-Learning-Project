@@ -34,11 +34,10 @@ The analysis will highlight the importance of label design and expert ratings in
 Charts and plots will be used to illustrate:
 - Distributions of Label Appeal and STARS.
 - Correlations with the TARGET variable, indicating overall quality.
-- Predictive insights that support marketing and production decisions.
+- Relationship between Label Appeal, STARS, and Alcohol Content.
 
 ## Conclusion
-Through rigorous analysis, this project will provide actionable insights into how wine quality is perceived based on visual appeal and expert evaluations, aiding in better marketing and product positioning strategies.
-
+Label Appeal does have a significant impact on STARS rating or quality of wine. By understanding the interplay between visual appeal and expert evaluations, wine producers can tailor their marketing and product strategies to better meet consumer expectations and enhance brand perception.
 
 
 
