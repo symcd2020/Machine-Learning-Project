@@ -37,7 +37,13 @@ Charts and plots will be used to illustrate:
 - Relationship between Label Appeal, STARS, and Alcohol Content.
 
 ## Conclusion
-Label Appeal does have a significant impact on STARS rating or quality of wine. By understanding the interplay between visual appeal and expert evaluations, wine producers can tailor their marketing and product strategies to better meet consumer expectations and enhance brand perception.
+Label Appeal DOES have an impact on STARS rating/ quality of wine. 
+- Key Findings
+- Alcohol content has also has an impact on STARS (quality) wine.
+- Label Appeal ALONE is NOT THE BEST indicator of Quality.
+
+Module Usability 
+By understanding the interplay between label appeal and STARS ratings, wine producers can tailor their marketing and product strategies to better meet consumer expectations and enhance brand perception.
 
 
 
